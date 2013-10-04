@@ -1,7 +1,7 @@
 Github-Shortcode
 ================
 
-Easily display GitHub Reposetories in Pages/Posts 
+Easily display GitHub Repositories in Pages/Posts 
 
 Usage:
 
